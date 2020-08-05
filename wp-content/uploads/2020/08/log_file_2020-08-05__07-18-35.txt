@@ -1,0 +1,35 @@
+
+---Downloaded files---
+The import files for: Demo Content were successfully downloaded!
+Initial max execution time = 1500
+Files info:
+Site URL = https://abdulbyahatti.website
+Data file = /home/bestiiur/abdulbyahatti.website/wp-content/uploads/2020/08/demo-content-import-file_2020-08-05__07-18-35.xml
+Widget file = /home/bestiiur/abdulbyahatti.website/wp-content/uploads/2020/08/demo-widgets-import-file_2020-08-05__07-18-35.json
+Customizer file = /home/bestiiur/abdulbyahatti.website/wp-content/uploads/2020/08/demo-customizer-import-file_2020-08-05__07-18-35.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Footer : 
+
+Custom HTML - No Title - Imported
+Navigation Menu - Quick Links - Imported
+Categories - Categories - Imported
+Gallery - Our Gallery - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,15 @@
+a:4:{s:8:"template";s:6:"victim";s:4:"mods";a:7:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:9:"main-menu";i:7;}s:18:"custom_css_post_id";i:166;s:14:"victim_options";a:20:{s:16:"theme_link_hover";s:7:"#ff0066";s:30:"theme_header_background_colors";s:7:"#000000";s:26:"theme_header_border_colors";s:19:"rgba(255,242,242,0)";s:10:"menu_color";s:7:"#ffffff";s:12:"fixed_footer";b:1;s:11:"footer_type";s:13:"custom_footer";s:16:"footer_templates";s:2:"41";s:23:"footer_link_hover_color";s:7:"#ff0066";s:26:"blog_single_sidebar_dispay";s:4:"full";s:23:"blog_single_top_padding";s:1:"0";s:22:"blog_single_top_margin";s:4:"-230";s:21:"feature_images_status";s:4:"wide";s:19:"blog_sidebar_dispay";s:4:"full";s:19:"blog_enries_content";a:4:{i:0;s:14:"featured_image";i:1;s:8:"category";i:2;s:5:"title";i:3;s:11:"footer_meta";}s:18:"post_title_content";i:29;s:21:"footer_widgets_layout";s:7:"[4,6,9]";s:9:"preloader";b:1;s:27:"theme_preloader_buble_color";s:7:"#ff0066";s:27:"mobile_menu_hamburger_color";s:7:"#ffffff";s:16:"combine_resource";b:1;}s:11:"custom_logo";i:305;s:12:"header_image";s:95:"http://demo.softhopper.net/victim/wp-content/uploads/sites/21/2019/12/cropped-banner-images.jpg";s:17:"header_image_data";O:8:"stdClass":5:{s:13:"attachment_id";i:47;s:3:"url";s:95:"http://demo.softhopper.net/victim/wp-content/uploads/sites/21/2019/12/cropped-banner-images.jpg";s:13:"thumbnail_url";s:95:"http://demo.softhopper.net/victim/wp-content/uploads/sites/21/2019/12/cropped-banner-images.jpg";s:6:"height";i:932;s:5:"width";i:1920;}}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:316:".wpcf7-form-control.wpcf7-text {
+	width: 100%;
+}
+#victim-particle-9b5541b {
+	opacity: 0.50;
+}
+.elementor.elementor-256 .elementor-icon-box-icon .elementor-icon {
+	border-color: #5B5B5B !important;
+}
+header.site-header .navigation .mainmenu > li > a::after {
+	margin-top: -35px;
+}
+.site-branding {
+	 max-width: 70%;
+}";}
